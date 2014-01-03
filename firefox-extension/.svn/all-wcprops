@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2281/branches/2.6/firefox-extension
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2281/branches/2.6/firefox-extension/install.rdf
+END
+chrome.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2281/branches/2.6/firefox-extension/chrome.manifest
+END
+handlers.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2281/branches/2.6/firefox-extension/handlers.js
+END

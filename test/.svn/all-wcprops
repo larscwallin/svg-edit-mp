@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2281/branches/2.6/test
+END
+draw_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2281/branches/2.6/test/draw_test.html
+END
+select_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2281/branches/2.6/test/select_test.html
+END
+svgutils_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2281/branches/2.6/test/svgutils_test.html
+END
+history_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2281/branches/2.6/test/history_test.html
+END
+test1.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2281/branches/2.6/test/test1.html
+END
+units_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2281/branches/2.6/test/units_test.html
+END
+svgtransformlist_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2281/branches/2.6/test/svgtransformlist_test.html
+END
+contextmenu_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2281/branches/2.6/test/contextmenu_test.html
+END
+math_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2281/branches/2.6/test/math_test.html
+END
+all_tests.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2281/branches/2.6/test/all_tests.html
+END
+path_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2281/branches/2.6/test/path_test.html
+END

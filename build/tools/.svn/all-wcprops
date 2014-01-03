@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2281/branches/2.6/build/tools
+END
+closure-compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2281/branches/2.6/build/tools/closure-compiler.jar
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2281/branches/2.6/build/tools/COPYING
+END
+ship.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2281/branches/2.6/build/tools/ship.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2281/branches/2.6/build/tools/README
+END
+yuicompressor.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2281/branches/2.6/build/tools/yuicompressor.jar
+END
